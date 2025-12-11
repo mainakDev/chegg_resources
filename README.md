@@ -45,7 +45,7 @@ python --version
 You have two options to get the notebook file **`3_5_5_Generative_Question_Answering.ipynb`**:
 
 - **Option A:** Download the file directly from GitHub.  
-👉 [Download from GitHub](YOUR_GITHUB_LINK_HERE)
+👉 [Download from GitHub](https://github.com/mainakDev/chegg_resources.git)
 
 - **Option B:** Clone the entire repository using Git:
 ```bash
@@ -85,7 +85,7 @@ If you prefer not to set up VS Code:
 ## ❗ If Setup Fails
 If you face issues with VS Code or Python installation, **don’t worry!**  
 You can download the **final folder (db.zip)** which contains everything you need:  
-👉 [Download db.zip](YOUR_LINK_HERE)
+👉 [Download db.zip](https://github.com/Thinkful-Ed/ai-in-web-dev-resources/blob/main/db_updated.zip)
 
 ---
 
